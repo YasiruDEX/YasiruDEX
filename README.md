@@ -1,9 +1,14 @@
+![MasterHead](https://static.vecteezy.com/system/resources/previews/016/349/659/non_2x/robots-banner-web-icon-illustration-concept-for-future-robotics-technology-with-an-icon-of-crawler-chef-chatbot-bot-camera-kid-and-dog-robot-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Yasiru Basnayake</h1>
 <h3 align="center">An undergrad from University of Moratuwa | 3D freelancer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5hKPyupKGWMAAAAM/robot-hello.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirudex" alt="yasirudex" /></a> </p>
+- 🔭 I’m currently working on **Cosmo Robot**
 
 - 🌱 I’m currently learning **Deep Learning and STM32 programming**
 
