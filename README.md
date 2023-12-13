@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yasiru Basnayake</h1>
 <h3 align="center">An undergrad from University of Moratuwa | 3D freelancer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5hKPyupKGWMAAAAM/robot-hello.gif">
+<img align="right" alt="Coding" width="400" src="https://www.leofebey.com/user/pages/06.blog/stm32-beginning/giphy504817834090575771.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
