@@ -9,11 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
 
-- 🚀 Currently immersed in the world of Cosmo Robot
+-🌌 Diving into the Earendel Pro-Track IoT telescope mount project, exploring the cosmos with cutting-edge technology!
 
-- 🌱 Learning the intricacies of Deep Learning and STM32 programming
+-💻 Mastering React Native for cross-platform app development, bringing seamless user experiences to the forefront.
+
+-🤖 Harnessing the power of ML-based image processing, unlocking new dimensions in data analysis and visualization.
 
 - 💡 Feel free to inquire about **Electronics, 3D Art, Machine Learning, and Microcontrollers**
+
+Keep reaching for the stars in your exciting journey through the realms of technology! 🚀🔭📱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
