@@ -9,15 +9,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
 
--🌌 Diving into the Earendel Pro-Track IoT telescope mount project, exploring the cosmos with cutting-edge technology!
+-🌌 Excited about the Earendel Pro-Track IoT telescope mount project, diving deep into the cosmos using cutting-edge tech!
 
--💻 Mastering React Native for cross-platform app development, bringing seamless user experiences to the forefront.
+-💻 Mastering React Native for creating user-friendly apps that work seamlessly on various devices.
 
--🤖 Harnessing the power of ML-based image processing, unlocking new dimensions in data analysis and visualization.
+-🤖 Playing with ML-based image processing to analyze and visualize data in groundbreaking ways.
 
-- 💡 Feel free to inquire about **Electronics, 3D Art, Machine Learning, and Microcontrollers**
+-💡 Ask me about Electronics, 3D Art, Machine Learning, and Microcontrollers!
 
-Keep reaching for the stars in your exciting journey through the realms of technology! 🚀🔭📱
+-🚀 Now, delving into GAN and Stable Diffusion architecture, experimenting with control nets to create amazing things.
+
+-💡 Working with high-speed microprocessors like STM32 for added technological prowess.
+
+-🕵️‍♂️ Exploring criminal face generation for forensic search – pushing the boundaries of tech innovation!
+
+Keep soaring through the tech universe! 🚀🔭📱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
