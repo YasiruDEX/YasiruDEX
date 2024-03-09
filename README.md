@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/016/349/659/non_2x/robots-banner-web-icon-illustration-concept-for-future-robotics-technology-with-an-icon-of-crawler-chef-chatbot-bot-camera-kid-and-dog-robot-vector.jpg)
+![MasterHead](https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/assets/stable-samples/txt2img/768/merged-0006.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=36&duration=6500&pause=1500&color=F7F7F7&center=true&random=false&width=1000&height=70&lines=Hey+there!%F0%9F%98%8C+Yasiru+Basnayake+in+the+house!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
