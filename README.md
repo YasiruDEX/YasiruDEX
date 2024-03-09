@@ -4,7 +4,7 @@
 
 <h3 align="center">University of Moratuwa ENTC undergrad 🎓 | Hustling as a 3D freelancer on the side! 💻✨</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.leofebey.com/user/pages/06.blog/stm32-beginning/giphy504817834090575771.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
