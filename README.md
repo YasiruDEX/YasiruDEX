@@ -9,19 +9,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
 
+-🕵️‍♂️ Working with LUNA restaurant robot exploring the gadgets inside ROS.
+
+-🚀 Developing a forensic identification platform using NextJS, Django, and machine learning models.
+
+-🩺 Building the ClariFi app, a medical report analysis app made using Flutter for precisely analyzing medical reports using machine learning.
+
+-💾 Unlocking the potential of Firebase database systems.
+
 -🌌 Excited about the Earendel Pro-Track IoT telescope mount project, diving deep into the cosmos using cutting-edge tech!
 
 -💻 Mastering React Native for creating user-friendly apps that work seamlessly on various devices.
 
 -🤖 Playing with ML-based image processing to analyze and visualize data in groundbreaking ways.
 
--💡 Ask me about Electronics, 3D Art, Machine Learning, and Microcontrollers!
-
 -🚀 Now, delving into GAN and Stable Diffusion architecture, experimenting with control nets to create amazing things.
 
 -💡 Working with high-speed microprocessors like STM32 for added technological prowess.
 
--🕵️‍♂️ Exploring criminal face generation for forensic search – pushing the boundaries of tech innovation!
+-💡 Ask me about Electronics, 3D Art, Machine Learning, and Microcontrollers!
 
 Keep soaring through the tech universe! 🚀🔭📱
 
