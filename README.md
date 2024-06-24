@@ -1,4 +1,4 @@
-![MasterHead](/Banner_image2.png)
+![MasterHead](/Banner updated.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
