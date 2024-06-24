@@ -1,4 +1,4 @@
-![MasterHead](/Banner_image.png)
+![MasterHead](/Banner_image2.png)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
 
