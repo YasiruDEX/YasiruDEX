@@ -1,32 +1,5 @@
 ![MasterHead](/Banner_image2.png)
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
-
--🕵️‍♂️ Working with LUNA restaurant robot exploring the gadgets inside ROS.
-
--🚀 Developing a forensic identification platform using NextJS, Django, and machine learning models.
-
--🩺 Building the ClariFi app, a medical report analysis app made using Flutter for precisely analyzing medical reports using machine learning.
-
--💾 Unlocking the potential of Firebase database systems.
-
--🌌 Excited about the Earendel Pro-Track IoT telescope mount project, diving deep into the cosmos using cutting-edge tech!
-
--💻 Mastering React Native for creating user-friendly apps that work seamlessly on various devices.
-
--🤖 Playing with ML-based image processing to analyze and visualize data in groundbreaking ways.
-
--🚀 Now, delving into GAN and Stable Diffusion architecture, experimenting with control nets to create amazing things.
-
--💡 Working with high-speed microprocessors like STM32 for added technological prowess.
-
--💡 Ask me about Electronics, 3D Art, Machine Learning, and Microcontrollers!
-
-Keep soaring through the tech universe! 🚀🔭📱
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasiru basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
