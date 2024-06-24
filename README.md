@@ -1,6 +1,6 @@
 ![MasterHead](/Banner.png)
 
-<h3 align="center">University of Moratuwa ENTC undergrad 🎓 | Hustling as a 3D freelancer on the side! 💻✨</h3>
+<h3 align="center" style="margin-top: 0px;">University of Moratuwa ENTC undergrad 🎓 | Hustling as a 3D freelancer on the side! 💻✨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
 
